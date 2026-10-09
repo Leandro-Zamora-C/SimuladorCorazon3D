@@ -2,7 +2,8 @@
 
 Una plataforma interactiva de simulación médica y fisiológica desarrollada en C++ y OpenGL. Este proyecto permite visualizar un modelo 3D del corazón humano con efectos gráficos avanzados, simulando su comportamiento bajo diferentes patologías y mostrando información de signos vitales en tiempo real.
 
-![Screenshot del Simulador](https://via.placeholder.com/800x450.png?text=Coloca+aqui+una+captura+de+tu+simulador)
+![<img width="1279" height="745" alt="image" src="https://github.com/user-attachments/assets/bb8062b2-37d7-47ac-9737-6265f031c5e3" />
+](https://via.placeholder.com/800x450.png?text=Coloca+aqui+una+captura+de+tu+simulador)
 *(Nota: Reemplaza este enlace con una captura de pantalla real de tu proyecto)*
 
 ## ✨ Características Principales
